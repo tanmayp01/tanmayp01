@@ -1,4 +1,4 @@
-# 🦖 Tanmay Pandey
+# 🦖 Yo, this is Tanmay Pandey
 
 > *Building intelligent systems at the intersection of data, logic, and creativity.*
 
@@ -6,7 +6,7 @@
 
 ## 🧠 Who Am I?
 
-I'm a **Machine Learning & AI Engineer** who loves turning raw data into working intelligence. Whether it's training a model, building a full-stack app, or debugging a pipeline at 2 AM — I'm in.
+I'm a **Machine Learning & AI Engineer** who loves turning raw data into working intelligence. Whether it's training a model, building a full-stack app, or debugging a pipeline at 2 AM, I'm in.
 
 Currently exploring the wild frontiers of deep learning and scalable ML systems.
 
@@ -54,14 +54,6 @@ Currently exploring the wild frontiers of deep learning and scalable ML systems.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaypandey&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypandey&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 🤝 Let's Connect & Build Something Cool
 
